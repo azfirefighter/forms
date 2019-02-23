@@ -1,0 +1,10 @@
+These packages must be manually installed from a base Ubuntu Server 16.04 LTS install
+
+apache2
+ghostscript
+imagemagick
+libapache2-mod-php7.0
+libjs-jquery
+pdftk
+php
+texlive-extra-utils
